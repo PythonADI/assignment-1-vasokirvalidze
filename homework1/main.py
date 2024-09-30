@@ -1,6 +1,5 @@
 def main() -> None:
-    # Write your solution here
-    pass
+    
     print("Hello World")
     print("5 + 7 = ",5+7)
     print("37 - 8 = ",37-8)
